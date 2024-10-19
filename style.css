@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+.cookie-consent{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    max-width: 260px;
+}
+
+.cookie-content{
+
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+
+}
+.cookie-icon{
+    font-size: xx-large;
+}
+.cookie-close{
+    border: none;
+    background: none;
+    color: white;
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    left: 215px;
+
+}
+
+.cookie-button{
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
